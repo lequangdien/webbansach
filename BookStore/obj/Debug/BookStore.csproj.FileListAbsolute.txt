@@ -1,0 +1,240 @@
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\BookStore.dll.config
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\BookStore.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\BookStore.pdb
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Antlr3.Runtime.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\EntityFramework.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.Security.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Newtonsoft.Json.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Owin.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\PagedList.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\PagedList.Mvc.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\System.Web.Optimization.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\System.Web.WebPages.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\WebGrease.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\PagedList.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\PagedList.Mvc.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\System.Web.Optimization.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\System.Web.WebPages.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Newtonsoft.Json.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\EntityFramework.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.Security.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\Study\Study\Web the he moi\Bai tap lon\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\BookStore.dll.config
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\BookStore.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\BookStore.pdb
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\EntityFramework.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.Security.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Owin.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\PagedList.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\PagedList.Mvc.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\System.Web.Optimization.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\System.Web.WebPages.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\WebGrease.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\PagedList.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\PagedList.Mvc.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\System.Web.Optimization.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\System.Web.WebPages.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\EntityFramework.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.Security.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\Study\Study\C# Programing\Project\ASP.NET MVC\BookStore\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\BookStore.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\EntityFramework.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Owin.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\PagedList.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\PagedList.Mvc.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\WebGrease.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\PagedList.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\PagedList.Mvc.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\EntityFramework.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\admin\OneDrive\Máy tính\BookStore-master\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\BookStore.dll.config
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\BookStore.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\BookStore.pdb
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Antlr3.Runtime.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\EntityFramework.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Newtonsoft.Json.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Owin.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\PagedList.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\PagedList.Mvc.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\System.Web.Optimization.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\System.Web.WebPages.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\WebGrease.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\PagedList.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\PagedList.Mvc.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\System.Web.Optimization.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\System.Web.WebPages.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Newtonsoft.Json.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\EntityFramework.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.Google.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\duan_c#\BookStore-master\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+D:\duan_c#\BookStore-master\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\duan_c#\BookStore-master\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+D:\duan_c#\BookStore-master\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\duan_c#\BookStore-master\BookStore\BookStore\obj\Debug\BookStore.pdb
