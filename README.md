@@ -1,2 +1,2 @@
 # BookStore
-The project website selling books using ASP.NET MVC
+Dự án website bán sách sử dụng ASP.NET MVC
